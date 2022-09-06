@@ -10,6 +10,9 @@ public class test11
 		
 		System.out.println("kap");
 		
+		
+		System.out.println("kpp");
+		
 	}
 
 }
